@@ -3,8 +3,7 @@ name: Node CI
 on: [push]
 
 jobs:
-  build:
-
+  build_tfs_repositories:
     runs-on: ubuntu-latest
 
     strategy:
@@ -24,26 +23,54 @@ jobs:
         npm run build --if-present
       env:
         CI: true
-    - name: upload
+    - name: upload TFSRepositoriesBuild
       uses: actions/upload-artifact@v1
       with:
         name: TFSRepositoriesBuild
         path: TFSRepositories/build
         
         
-  preparedeploy:
-    needs: [build]
+        
+        
+  awesome_rpcr:
     runs-on: ubuntu-latest
     steps:
-      - name: Download math result for job 1
+      - name: upload awesomeRPCRBuild
+        uses: actions/upload-artifact@v1
+        with:
+          name: awesomeRPCRBuild
+          path: awesomeRPCR
+        
+  Io_simulator:
+    runs-on: ubuntu-latest
+    steps:
+      - name: upload IoSimulatorBuild
+        uses: actions/upload-artifact@v1
+        with:
+          name: IoSimulatorBuild
+          path: IoSimulator      
+        
+        
+  prepare_deploy:
+    needs: [build_tfs_repositories, awesome_rpcr, Io_simulator]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download TFSRepositoriesBuild
         uses: actions/download-artifact@v1
         with:
           name: TFSRepositoriesBuild
-          
-          
-          
-      - name: stam
         
+      - name: Download awesomeRPCRBuild
+        uses: actions/download-artifact@v1
+        with:
+          name: awesomeRPCRBuild
+          
+      - name: Download IoSimulatorBuild
+        uses: actions/download-artifact@v1
+        with:
+          name: IoSimulatorBuild
+
+      - name: stam
         env:
           MY_VAR: Hi there! My name is
           FIRST_NAME: Mona
