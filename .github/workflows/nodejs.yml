@@ -27,10 +27,11 @@ jobs:
         
         
   preparedeploy:
-
+    needs: [build]
     runs-on: ubuntu-latest
     steps:
       - name: stam
+        
         env:
           MY_VAR: Hi there! My name is
           FIRST_NAME: Mona
