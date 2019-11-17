@@ -18,8 +18,8 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - name: npm install and build
+      working-directory: TFSRepositories
       run: |
-        CD TFSRepositories
         npm ci
         npm run build --if-present
       env:
