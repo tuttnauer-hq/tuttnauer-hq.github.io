@@ -29,11 +29,15 @@ jobs:
   preparedeploy:
 
     runs-on: ubuntu-latest
-
     steps:
-    - name: echo
-      working-directory: TFSRepositories
-      run: echo "asdf"
+      - name: stam
+        env:
+          MY_VAR: Hi there! My name is
+          FIRST_NAME: Mona
+          MIDDLE_NAME: The
+          LAST_NAME: Octocat
+        run: |
+          echo $MY_VAR
 #    - name: Deploy
 #      uses: peaceiris/actions-gh-pages@v2.5.0
 #      env:
