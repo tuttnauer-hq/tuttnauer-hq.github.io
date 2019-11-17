@@ -62,19 +62,19 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: TFSRepositoriesBuild
-          path: deployment/TFSRepositoriesBuild
+          path: deployment/TFSRepositories
         
       - name: Download awesomeRPCRBuild
         uses: actions/download-artifact@v1
         with:
           name: awesomeRPCRBuild
-          path: deployment/awesomeRPCRBuild
+          path: deployment/awesomeRPCR
           
       - name: Download IoSimulatorBuild
         uses: actions/download-artifact@v1
         with:
           name: IoSimulatorBuild
-          path: deployment/IoSimulatorBuild
+          path: deployment/IoSimulator
   
       - name: upload deployment
         uses: actions/upload-artifact@v1
@@ -89,9 +89,9 @@ jobs:
           LAST_NAME: Octocat
         run: |
           ls
-#    - name: Deploy
-#      uses: peaceiris/actions-gh-pages@v2.5.0
-#      env:
-#        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-#        PUBLISH_BRANCH: master
-#        PUBLISH_DIR: ./build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v2.5.0
+        env:
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          PUBLISH_BRANCH: master
+          PUBLISH_DIR: ./deployment
