@@ -74,7 +74,7 @@ jobs:
           name: IoSimulatorBuild
       - name: copy to deployment
         run: |
-          cp -a . /deployment/
+          sudo cp -a . /deployment/
       - name: stam
         env:
           MY_VAR: Hi there! My name is
