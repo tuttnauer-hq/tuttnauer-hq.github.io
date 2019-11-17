@@ -25,6 +25,15 @@ jobs:
       env:
         CI: true
         
+        
+  preparedeploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: echo
+      working-directory: TFSRepositories
+      run: echo "asdf"
 #    - name: Deploy
 #      uses: peaceiris/actions-gh-pages@v2.5.0
 #      env:
