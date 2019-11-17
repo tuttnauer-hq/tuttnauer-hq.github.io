@@ -72,7 +72,9 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: IoSimulatorBuild
-
+      - name: copy to deployment
+        run: |
+          cp -a . /deployment/
       - name: stam
         env:
           MY_VAR: Hi there! My name is
