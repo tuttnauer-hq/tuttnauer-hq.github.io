@@ -72,9 +72,8 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: IoSimulatorBuild
-      - name: copy to deployment
-        run: |
-          sudo cp -a -r . ./deployment/
+          path: homework
+  
       - name: upload deployment
         uses: actions/upload-artifact@v1
         with:
