@@ -32,18 +32,21 @@ jobs:
         
         
         
-  awesome_rpcr:
+  build_awesome_rpcr:
+    
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v1
       - name: upload awesomeRPCRBuild
         uses: actions/upload-artifact@v1
         with:
           name: awesomeRPCRBuild
           path: awesomeRPCR
         
-  Io_simulator:
+  build_io_simulator:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v1
       - name: upload IoSimulatorBuild
         uses: actions/upload-artifact@v1
         with:
@@ -52,7 +55,7 @@ jobs:
         
         
   prepare_deploy:
-    needs: [build_tfs_repositories, awesome_rpcr, Io_simulator]
+    needs: [build_tfs_repositories, build_awesome_rpcr, build_io_simulator]
     runs-on: ubuntu-latest
     steps:
       - name: Download TFSRepositoriesBuild
