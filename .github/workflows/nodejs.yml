@@ -75,6 +75,11 @@ jobs:
       - name: copy to deployment
         run: |
           sudo cp -a . /deployment/
+      - name: upload deployment
+        uses: actions/upload-artifact@v1
+        with:
+          name: deployment
+          path: deployment
       - name: stam
         env:
           MY_VAR: Hi there! My name is
