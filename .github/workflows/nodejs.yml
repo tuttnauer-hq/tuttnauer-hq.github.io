@@ -62,17 +62,19 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: TFSRepositoriesBuild
+          path: deployment/TFSRepositoriesBuild
         
       - name: Download awesomeRPCRBuild
         uses: actions/download-artifact@v1
         with:
           name: awesomeRPCRBuild
+          path: deployment/awesomeRPCRBuild
           
       - name: Download IoSimulatorBuild
         uses: actions/download-artifact@v1
         with:
           name: IoSimulatorBuild
-          path: deployment
+          path: deployment/IoSimulatorBuild
   
       - name: upload deployment
         uses: actions/upload-artifact@v1
