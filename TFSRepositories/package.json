@@ -1,6 +1,6 @@
 {
 
-  "homepage": "REACT_APP_API_URL",
+  "homepage": "./relativepath",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
