@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "./TFSRepositories/static/css/main.0ebde3ef.chunk.css",
-    "main.js": "./TFSRepositories/static/js/main.db2d63a3.chunk.js",
-    "main.js.map": "./TFSRepositories/static/js/main.db2d63a3.chunk.js.map",
-    "runtime-main.js": "./TFSRepositories/static/js/runtime-main.c538484c.js",
-    "runtime-main.js.map": "./TFSRepositories/static/js/runtime-main.c538484c.js.map",
-    "static/js/2.f5d5ed4b.chunk.js": "./TFSRepositories/static/js/2.f5d5ed4b.chunk.js",
-    "static/js/2.f5d5ed4b.chunk.js.map": "./TFSRepositories/static/js/2.f5d5ed4b.chunk.js.map",
-    "index.html": "./TFSRepositories/index.html",
-    "precache-manifest.00dd6492d8da8f5d86daca49b195a637.js": "./TFSRepositories/precache-manifest.00dd6492d8da8f5d86daca49b195a637.js",
-    "service-worker.js": "./TFSRepositories/service-worker.js",
-    "static/css/main.0ebde3ef.chunk.css.map": "./TFSRepositories/static/css/main.0ebde3ef.chunk.css.map"
+    "main.css": "./static/css/main.0ebde3ef.chunk.css",
+    "main.js": "./static/js/main.db2d63a3.chunk.js",
+    "main.js.map": "./static/js/main.db2d63a3.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f1c4a8af.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f1c4a8af.js.map",
+    "static/js/2.f5d5ed4b.chunk.js": "./static/js/2.f5d5ed4b.chunk.js",
+    "static/js/2.f5d5ed4b.chunk.js.map": "./static/js/2.f5d5ed4b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.b985cc2cd92cc66c0f0b51307e861cbe.js": "./precache-manifest.b985cc2cd92cc66c0f0b51307e861cbe.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.0ebde3ef.chunk.css.map": "./static/css/main.0ebde3ef.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c538484c.js",
+    "static/js/runtime-main.f1c4a8af.js",
     "static/js/2.f5d5ed4b.chunk.js",
     "static/css/main.0ebde3ef.chunk.css",
     "static/js/main.db2d63a3.chunk.js"
