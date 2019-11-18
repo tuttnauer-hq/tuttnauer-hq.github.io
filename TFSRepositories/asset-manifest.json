@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "REACT_APP_API_URL/static/css/main.0ebde3ef.chunk.css",
-    "main.js": "REACT_APP_API_URL/static/js/main.db2d63a3.chunk.js",
-    "main.js.map": "REACT_APP_API_URL/static/js/main.db2d63a3.chunk.js.map",
-    "runtime-main.js": "REACT_APP_API_URL/static/js/runtime-main.d2280f50.js",
-    "runtime-main.js.map": "REACT_APP_API_URL/static/js/runtime-main.d2280f50.js.map",
-    "static/js/2.f5d5ed4b.chunk.js": "REACT_APP_API_URL/static/js/2.f5d5ed4b.chunk.js",
-    "static/js/2.f5d5ed4b.chunk.js.map": "REACT_APP_API_URL/static/js/2.f5d5ed4b.chunk.js.map",
-    "index.html": "REACT_APP_API_URL/index.html",
-    "precache-manifest.38ae2d4376b35e73ae9b9ed13ae075a0.js": "REACT_APP_API_URL/precache-manifest.38ae2d4376b35e73ae9b9ed13ae075a0.js",
-    "service-worker.js": "REACT_APP_API_URL/service-worker.js",
-    "static/css/main.0ebde3ef.chunk.css.map": "REACT_APP_API_URL/static/css/main.0ebde3ef.chunk.css.map"
+    "main.css": "./relativepath/static/css/main.0ebde3ef.chunk.css",
+    "main.js": "./relativepath/static/js/main.db2d63a3.chunk.js",
+    "main.js.map": "./relativepath/static/js/main.db2d63a3.chunk.js.map",
+    "runtime-main.js": "./relativepath/static/js/runtime-main.2366a549.js",
+    "runtime-main.js.map": "./relativepath/static/js/runtime-main.2366a549.js.map",
+    "static/js/2.f5d5ed4b.chunk.js": "./relativepath/static/js/2.f5d5ed4b.chunk.js",
+    "static/js/2.f5d5ed4b.chunk.js.map": "./relativepath/static/js/2.f5d5ed4b.chunk.js.map",
+    "index.html": "./relativepath/index.html",
+    "precache-manifest.881889ea29ef144d7de3842363b35772.js": "./relativepath/precache-manifest.881889ea29ef144d7de3842363b35772.js",
+    "service-worker.js": "./relativepath/service-worker.js",
+    "static/css/main.0ebde3ef.chunk.css.map": "./relativepath/static/css/main.0ebde3ef.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2280f50.js",
+    "static/js/runtime-main.2366a549.js",
     "static/js/2.f5d5ed4b.chunk.js",
     "static/css/main.0ebde3ef.chunk.css",
     "static/js/main.db2d63a3.chunk.js"
