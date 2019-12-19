@@ -1,6 +1,13 @@
 
 document.getElementById('input-file').addEventListener('change', getFile)
 
+var iterationCount = 1000;
+var keySize = 128;
+var encryptionKey;
+var iv;
+var salt;
+
+var aesUtil = new AesUtil(keySize, iterationCount);
 
 function getFile(event) {
     const input = event.target
@@ -14,8 +21,13 @@ function getFile(event) {
 
 function placeFileContent(target, file) {
   readFileContent(file).then(content => {
-    var encodedData = window.atob(content);
-    target.value = JSON.stringify(JSON.parse(encodedData), null, "\t");
+      debugger;
+//      var encodedData = window.atob(content);
+      encryptionKey = getParameterByName('key');
+      salt = iv = content.slice(0, 32);
+      content = content.slice(32);
+      var plaintext =  aesUtil.decrypt(salt, iv, encryptionKey, content);
+      target.value = JSON.stringify(JSON.parse(plaintext), null, "\t");
     }).catch(error => console.log(error))
 }
 
@@ -35,7 +47,7 @@ function download() {
     let  fileContent = document.getElementById('content-target').value;
 
     var element = document.createElement('a');
-    var encodedData = window.btoa(fileContent);
+    var encodedData =  salt + aesUtil.encrypt(salt, iv, encryptionKey, fileContent);
     element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(encodedData));
     element.setAttribute('download', fileName);
   
@@ -46,4 +58,14 @@ function download() {
   
     document.body.removeChild(element);
   }
+
+  function getParameterByName(name) {
+    var url = window.location.href;
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
 
