@@ -21,6 +21,8 @@ function getFile(event) {
 
 function placeFileContent(target, file) {
   readFileContent(file).then(content => {
+      debugger;
+//      var encodedData = window.atob(content);
       encryptionKey = getParameterByName('key');
       salt = iv = content.slice(0, 32);
       content = content.slice(32);
