@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="180" height="177.98" viewBox="0 0 180 177.98">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#4d5c76" stop-opacity="0.698"/>
+    </linearGradient>
+  </defs>
+  <g id="GatewaySymbol" transform="translate(-6171 324.855)">
+    <g id="Group_594" data-name="Group 594" transform="translate(6171 -304.285)">
+      <g id="Rectangle_397" data-name="Rectangle 397" transform="translate(0 37.895)" fill="none" stroke="#4c5b77" stroke-width="2">
+        <rect width="180" height="108.583" rx="15" stroke="none"/>
+        <rect x="1" y="1" width="178" height="106.583" rx="14" fill="none"/>
+      </g>
+      <g id="Rectangle_398" data-name="Rectangle 398" transform="translate(4.372 42.996)" stroke="#4c5b77" stroke-width="2" fill="url(#linear-gradient)">
+        <rect width="171.255" height="98.381" rx="10" stroke="none"/>
+        <rect x="1" y="1" width="169.255" height="96.381" rx="9" fill="none"/>
+      </g>
+      <g id="Rectangle_399" data-name="Rectangle 399" transform="translate(129.717 12.389)" fill="none" stroke="#4c5b77" stroke-width="2">
+        <rect width="10.202" height="26.964" stroke="none"/>
+        <rect x="1" y="1" width="8.202" height="24.964" fill="none"/>
+      </g>
+      <g id="Rectangle_400" data-name="Rectangle 400" transform="translate(129.717)" fill="none" stroke="#4c5b77" stroke-width="2">
+        <path d="M5.1,0h0a5.1,5.1,0,0,1,5.1,5.1v8.745a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5.1A5.1,5.1,0,0,1,5.1,0Z" stroke="none"/>
+        <path d="M5.1,1h0A4.1,4.1,0,0,1,9.2,5.1v7.661a.084.084,0,0,1-.084.084H1.084A.084.084,0,0,1,1,12.762V5.1A4.1,4.1,0,0,1,5.1,1Z" fill="none"/>
+      </g>
+      <line id="Line_1351" data-name="Line 1351" x2="8.745" transform="translate(130.81 4.737)" fill="none" stroke="#4c5b77" stroke-width="2"/>
+      <g id="Rectangle_401" data-name="Rectangle 401" transform="translate(31.336 145.02)" fill="none" stroke="#4c5b77" stroke-width="2">
+        <path d="M0,0H118.057a0,0,0,0,1,0,0V7.389a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M2,1H116.057a1,1,0,0,1,1,1V7.389a4,4,0,0,1-4,4H5a4,4,0,0,1-4-4V2A1,1,0,0,1,2,1Z" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_360" data-name="Path 360" d="M0,0A12.584,12.584,0,0,1,4.646,9.69,12.584,12.584,0,0,1,0,19.38" transform="translate(6296.257 -308.438) rotate(-90)" fill="none" stroke="#4c5b77" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_361" data-name="Path 361" d="M0,0A22.72,22.72,0,0,1,6.71,16.063,22.729,22.729,0,0,1,.01,32.118" transform="translate(6289.884 -317.145) rotate(-90)" fill="none" stroke="#4c5b77" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

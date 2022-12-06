@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/gateway/static/css/main.fa99f4a9.css",
+    "main.js": "/gateway/static/js/main.96c31208.js",
+    "static/js/787.db972de2.chunk.js": "/gateway/static/js/787.db972de2.chunk.js",
+    "static/media/TitilliumWeb-Light.ttf": "/gateway/static/media/TitilliumWeb-Light.2b8d1521998c2d55bb51.ttf",
+    "static/media/TitilliumWeb-Regular.ttf": "/gateway/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
+    "static/media/TitilliumWeb-SemiBold.ttf": "/gateway/static/media/TitilliumWeb-SemiBold.d4d3eeb6e2367e6796c3.ttf",
+    "static/media/axios.cjs": "/gateway/static/media/axios.1625a2be6a566dade312.cjs",
+    "static/media/nav_tutt_logo.svg": "/gateway/static/media/nav_tutt_logo.835f1b30edc614a17d333d993b0b8a1e.svg",
+    "static/media/gw_device.svg": "/gateway/static/media/gw_device.c67cd32ec0a57843a550273404fd7a2f.svg",
+    "static/media/gw_device_smile.svg": "/gateway/static/media/gw_device_smile.921175abcbd31b0f135d1b64ebd0b81c.svg",
+    "static/media/wifi-signal.svg": "/gateway/static/media/wifi-signal.4a5f8379f4aae36831f5771affddb31e.svg",
+    "static/media/nav_gear.svg": "/gateway/static/media/nav_gear.bf6c49342e4818802a2f0c123077bbc1.svg",
+    "static/media/three_dots.svg": "/gateway/static/media/three_dots.bb3f3108d64b3790125a92e5f84ffc4a.svg",
+    "index.html": "/gateway/index.html",
+    "static/media/address-marker.svg": "/gateway/static/media/address-marker.5b413e9cbb6a033a6481efd10c5235e0.svg",
+    "static/media/user_icon.svg": "/gateway/static/media/user_icon.41145b5e00baed4dc4913d200fc5e15c.svg",
+    "static/media/search.svg": "/gateway/static/media/search.a3fbe88483853318d47364ac128bc13a.svg",
+    "static/media/i_tooltip.svg": "/gateway/static/media/i_tooltip.e574408789f37795cb0c27fc8f08deed.svg",
+    "static/media/v.svg": "/gateway/static/media/v.7e4034b34a11ce350a89.svg",
+    "static/media/arrow.svg": "/gateway/static/media/arrow.29b0c63609815ad2b2ff4b45432bcd9b.svg",
+    "main.fa99f4a9.css.map": "/gateway/static/css/main.fa99f4a9.css.map",
+    "main.96c31208.js.map": "/gateway/static/js/main.96c31208.js.map",
+    "787.db972de2.chunk.js.map": "/gateway/static/js/787.db972de2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa99f4a9.css",
+    "static/js/main.96c31208.js"
+  ]
+}
