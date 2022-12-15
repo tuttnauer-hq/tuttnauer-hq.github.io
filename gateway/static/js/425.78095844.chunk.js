@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgateway_client=self.webpackChunkgateway_client||[]).push([[425],{425:function(e,t,a){e.exports=a.p+"static/media/horizontal_device.2ef3112d57d48c3e35d0.svg"}}]);

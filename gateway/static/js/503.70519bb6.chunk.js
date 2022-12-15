@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgateway_client=self.webpackChunkgateway_client||[]).push([[503],{503:function(e,t,a){e.exports=a.p+"static/media/tabletop_device.4ec450e021b3717e6d26.svg"}}]);
