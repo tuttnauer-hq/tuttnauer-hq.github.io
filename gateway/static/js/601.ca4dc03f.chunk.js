@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgateway_client=self.webpackChunkgateway_client||[]).push([[601],{1601:function(e,t,a){e.exports=a.p+"static/media/gw_device_smile.921175abcbd31b0f135d.svg"}}]);

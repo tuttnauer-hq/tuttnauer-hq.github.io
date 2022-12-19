@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgateway_client=self.webpackChunkgateway_client||[]).push([[937],{1937:function(t,e,a){t.exports=a.p+"static/media/nav_tutt_logo.835f1b30edc614a17d33.svg"}}]);

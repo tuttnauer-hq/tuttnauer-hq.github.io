@@ -1,0 +1,70 @@
+Device Management Solution Privacy Policy V1.0
+1.	General
+1.1.	We at Tuttnauer Ltd. (the "Company", "We", "Us" or "Our"), are committed to protecting the privacy of Our users. As part of this commitment, it is important for Us to be transparent about how We handle the information that We (or others on Our behalf) collect about Our users, when We collect information about them, and how We use such information.
+1.2.	This is the privacy policy related to our limited collection of personal information through the use of our advanced monitoring application for our devices (the “Services”). In this Policy, you ("You", "Your" or "User") may find information about the types of information that We collect about users of Our Services, when We collect it, how We use it, share it with third parties, maintain it, etc. 
+Our Services are focused on our devices and information about you may be collected incidentally as detailed in this Policy. 
+1.3.	In this Policy, any reference to “Personal Data” is to any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or in combination with additional information that We have or that We have access to. 
+
+2.	When do We collect information about You? 
+2.1.	We may collect Personal Data about You in the following circumstances:
+2.1.1.	When You register with as a user to our Services; and
+2.1.2.	When You interact with Us in any manner, including by sending Us an email. 
+2.2.	You are under no legal obligation to furnish any information about You, and the furnishing thereof is at Your discretion and at Your own free will. However, if You do not furnish certain information about You, We shall not be able to provide You with some of the Services.
+
+3.	What types of information do We collect? 
+3.1.	We (or others on Our behalf) may collect the following types of Personal Data about You: 
+3.1.1.	Registration information – for the purpose of creation of a user account and activation of the Services You provide Us with the following information: name, organizational email address.
+3.1.2.	Devices usage information - We monitor our devices as part of our Services. This monitoring includes the location of the device activated using your IP. 
+3.1.3.	Communication information - when You contact Us, including via Our Website or any other support and communication channels, You may provide Us with Your name, certain contact information (such as email address and telephone number) and the content of Your communication with Us. 
+3.2.	You are responsible for ensuring the accuracy of the information that You provide Us (or others on Our behalf) with. Inaccurate information will affect Our ability to provide You with some of the Services, as well as Our ability to contact You as contemplated in this Policy. 
+
+4.	How do We use Personal Data?
+We may use Personal Data about You for the following purposes:
+4.1.	To provide the Services. 
+4.2.	To contact You for the purpose of operational requirements.
+4.3.	To respond to Your queries, requests and/or complaints.
+4.4.	To protect Our and third parties’ interests, rights and assets, including initiation or exercise or defense of legal claims.
+4.5.	To fulfil Our legal or regulatory requirements.
+
+5.	The Purposes of the Processing of Personal Data and their Legal Basis 
+The Company processes your Personal Data for one or more of the purposes outlined in this section and according to the appropriate legal basis.
+The Company will not process Personal Data about you unless there is a legal basis for such processing. The legal bases according to which the Company may process Personal Data about you are as follows:
+5.1.	Processing is necessary for the performance of a contract to which you are party or in order to take steps at your request prior to entering into a contract. This refers to all the information required for us to provide you with the Services and grant you access thereto, including the collection of your name and email upon registration. 
+
+5.2.	Processing is necessary for the purposes of the legitimate interests pursued by the Company or by a third party. By way of example, for the purpose of improving Our Services, or for the exercise or defense of legal claims. 
+
+6.	Sharing of Personal Data
+6.1.	We will not disclose Personal Data about You to third parties except as detailed in this Policy. 
+6.2.	We may transfer Personal Data to entities that control Us, entities that are under Our control and/or to entities under common control or ownership with Us, as shall be from time to time (collectively the “Group”). Such entities may use the Personal Data to support the needs of the Group.
+6.3.	We may share Personal Data about You with the following third parties or for the following purposes: 
+6.3.1.	Upon Your consent or instruction;
+6.3.2.	Third parties providing Us services related to the offering of the Services, including the Storage and hosting providers, including cloud computing services; IP address information; CRM data management; Accounting and legal services; and Research, analytical, technical, and diagnostic services.
+6.3.3.	In the event that We sell, assign or transfer some or all of Our business or assets to a successor or acquirer, or if We are acquired by or merge with a third party, or if We file for bankruptcy or become insolvent, or any other situation where Personal Data may be sold, assigned or transferred to a successor or acquirer;
+6.3.4.	To protect Our rights, property and interest or those of third parties;
+6.3.5.	To fulfil Our legal or regulatory requirements or to comply with a court order.
+
+7.	Transfer of Personal Data abroad
+Personal Data about you may be transferred to a third country (i.e. jurisdictions other than the one you reside in) or to international organizations. In such circumstances, the Company shall take appropriate safeguards to ensure the protection of Personal Data about you and to provide that enforceable data subject rights and effective legal remedies for data subjects are available. 
+If you are an EEA resident, please note that these safeguards and protection will be available if any of the following are met:
+7.1.	The transfer is to a third country or an international organization that the EU Commission has decided provides an adequate level of protection to the Personal Data that is transferred to it pursuant to Article 45(3) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 ("GDPR");
+7.2.	The transfer is according to a legally binding and enforceable instrument between public authorities or bodies pursuant to Article 46(2)(a) of the GDPR; or
+7.3.	The transfer is in accordance with standard data protection clauses adopted by the EU Commission pursuant to Article 46(2)(c) of the GDPR. The clauses adopted by the EU Commission can be viewed at https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en
+
+8.	Retention of Personal Data
+We will retain Personal Data about You only for as long as necessary for the fulfillment of the purposes for which such Personal Data is collected. We may retain Personal Data about You for longer periods, if We find it necessary to comply with legal requirements applicable to Us. 
+
+
+9.	Security 
+We have implemented suitable security policies, rules and technical measures to protect and safeguard the Personal Data under Our control from unauthorized access, improper use or disclosure, unauthorized modification, or unlawful destruction. However, any storage of Personal Data and especially, the transfer thereof via the internet cannot be fully secured, and therefore We cannot promise absolute protection of Your Personal Data. 
+
+10.	Disclaimer 
+We cannot guarantee, nor do We represent, that there will be error-free performance regarding the privacy of Your Personal Data, and We will not be liable for any indirect, incidental, consequential, or punitive damages relating to the use or release of Personal Data about You including, but not limited to, disclosure of Personal Data due to errors in transmission, unauthorized third-party access, or other causes beyond Our reasonable control.
+
+11.	Changes to the Policy 
+We may change this Policy in Our sole discretion at any time. Any revisions to this Policy will be posted as an updated version accessible via the Website home page. We recommend that You revisit this Policy regularly so as to be kept apprised of any such changes.
+ 
+12.	Contact Us
+For any queries relating to this Policy, data protection and exercise of your rights under the applicable privacy laws, please contact Us at privacy@tuttnauer.com
+Privacy:  https://www.iubenda.com/privacy-policy/342961/cookie-policy
+
+Last updated: Dec, 2021. 

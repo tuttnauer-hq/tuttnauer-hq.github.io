@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgateway_client=self.webpackChunkgateway_client||[]).push([[640],{640:function(a,e,t){a.exports=t.p+"static/media/wifi-signal-2.4a5f8379f4aae36831f5.svg"}}]);

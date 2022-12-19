@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgateway_client=self.webpackChunkgateway_client||[]).push([[995],{6995:function(e,t,a){e.exports=a.p+"static/media/wifi3.63eb9f9a2eb6779f0e5f.svg"}}]);
