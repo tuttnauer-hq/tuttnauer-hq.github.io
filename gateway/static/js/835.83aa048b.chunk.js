@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgateway_client=self.webpackChunkgateway_client||[]).push([[835],{2835:function(e,a,t){e.exports=t.p+"static/media/logo.c96e6d0aa7e492452ab8.svg"}}]);
